@@ -11,7 +11,7 @@ from tensorboard_callback import TensorboardCallback
 
 def make_env(rank, env_conf, seed=0):
     """
-    Utility function for multiprocessed env.
+    Utility function for multiprocessed envs.
     :param env_id: (str) the environment ID
     :param num_env: (int) the number of environments you wish to have in subprocesses
     :param seed: (int) the initial seed for RNG
