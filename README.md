@@ -1,20 +1,4 @@
-# Train RL agents to play Pokemon Red
-  
-## Watch the Video on Youtube! 
 
-<p float="left">
-  <a href="https://youtu.be/DcYLT37ImBY">
-    <img src="/assets/youtube.jpg?raw=true" height="192">
-  </a>
-  <a href="https://youtu.be/DcYLT37ImBY">
-    <img src="/assets/poke_map.gif?raw=true" height="192">
-  </a>
-</p>
-
-## Join the discord server
-[![Join the Discord server!](https://invidget.switchblade.xyz/RvadteZk4G)](http://discord.gg/RvadteZk4G)
-  
-## Running the Pretrained Model Interactively 🎮  
 🐍 Python 3.10 is recommended. Other versions may work but have not been tested.   
 You also need to install ffmpeg and have it available in the command line.
 
